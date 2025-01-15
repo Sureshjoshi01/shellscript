@@ -14,7 +14,7 @@ https://www.codewars.com/kata/search/shell?q=&beta=false&order_by=rank_id%20asc
 
 DevOps Questions --- 
 
-Write a shell script that prints the current date and time.   
+Write a shell script that prints the current date and time
 Write a shell script that creates a backup of a directory specified by the user.
 Write a shell script that counts the number of files in a given directory and outputs whether there are more files than a specified number.
 Write a shell script that checks if a specific process is running and starts it if it is not.
